@@ -1,0 +1,6 @@
+{
+  "name": "AURA Sanctuary - 3D Luxury Hotel & Resort Booking",
+  "description": "An interactive 3D luxury hotel booking system with real-time room customizer, spatial floorplan viewer, and complete reservation lifecycle in an elegant light aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
